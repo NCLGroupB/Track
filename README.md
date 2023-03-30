@@ -22,6 +22,7 @@ In this project, we present a portable memory recording device inspired by a vin
 * Camera
 * Earphone
 * Microphone
+* LCD touch screen
 ### Software:
 * Python 3.7.2
 ### Libraries:
