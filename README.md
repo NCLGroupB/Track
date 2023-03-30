@@ -1,4 +1,4 @@
-# Timeless Track
+# Timeless Tracks: A record player for creating a student footprint
 This is a group project for course Technologies in HCI in NCL university.
 The code is for a portable device that can record and restore students memories,
 The code is written in Python on a raspberry pi 4  and offers a simple GUI with 
@@ -6,6 +6,7 @@ the use of a stepper motor, a pi camera, an LCD touch screen, an RFID reader and
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/113771757/228869070-be790ab3-26c0-4488-ae8b-9a92998f54d8.png"> <img width="350" alt="image" src="https://user-images.githubusercontent.com/113771757/228868818-396b04ce-0696-436b-8e24-dcc18ed490ad.png">
 
+This repository contains all the code to run our record player.
 
 see link for more detail:
 https://vimeo.com/811275617
