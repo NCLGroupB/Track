@@ -4,7 +4,7 @@ The code is for a portable device that can record and restore students memories,
 The code is written in Python on a raspberry pi 4  and offers a simple GUI with 
 the use of a stepper motor, a pi camera, an LCD touch screen, an RFID reader and a mic and headphones for recording and listening respectivly.
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/113771757/228869070-be790ab3-26c0-4488-ae8b-9a92998f54d8.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/113771757/228868818-396b04ce-0696-436b-8e24-dcc18ed490ad.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/113771757/228869070-be790ab3-26c0-4488-ae8b-9a92998f54d8.png"> <img width="350" alt="image" src="https://user-images.githubusercontent.com/113771757/228868818-396b04ce-0696-436b-8e24-dcc18ed490ad.png">
 
 
 see link for more detail:
@@ -37,10 +37,9 @@ In this project, we present a portable memory recording device inspired by a vin
 * python.sys
 
 ## Setup
+To run this project,
 * Install all Libraries.
 * Clone all the code folder onto the Raspberry Pi. Improtant: users should clone the code and the images to folder, because the name of the image that the program needs to initialise before it can run
 * Check that the headset, microphone and camera are successfully connected
 * Check if the stepper motor is successfully connected, stepper motor pins 29, 31, 33, 35
 * Run the software and use the touch screen for control
-
-*
