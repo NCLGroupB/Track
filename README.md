@@ -23,7 +23,19 @@ In this project, we present a portable memory recording device inspired by a vin
 * Earphone
 * Microphone
 ### Software:
-* Python
+* Python 3.7.2
 ### Libraries:
-* 
+* tkinter
+* picamera
+* python.time
+* python.os
+* python.wave
+* python.threading
+* pygame
+* RPI.GPIO
+* mfrc522
+* python.sys
+
 ## Setup
+*
+*
