@@ -37,5 +37,10 @@ In this project, we present a portable memory recording device inspired by a vin
 * python.sys
 
 ## Setup
-*
+* Install all Libraries.
+* Clone all the code folder onto the Raspberry Pi. Improtant: users should clone the code and the images to folder, because the name of the image that the program needs to initialise before it can run
+* Check that the headset, microphone and camera are successfully connected
+* Check if the stepper motor is successfully connected, stepper motor pins 29, 31, 33, 35
+* Run the software and use the touch screen for control
+
 *
